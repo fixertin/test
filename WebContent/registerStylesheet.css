@@ -1,0 +1,21 @@
+@CHARSET "ISO-8859-1";
+body{
+	background-color: #cfcfcf;
+}
+
+.navbar .container_12{
+	background-color: #aaaaaa;
+	height: 40px;
+	text-align: center;
+	line-height: 40px;
+	border-radius: 15px;
+}
+
+#loginForms form{
+	display: table;
+}
+#loginForms p{
+	display: table-row;
+}
+#loginForms label{ display: table-cell; }
+#loginForms input{ display: table-cell; }

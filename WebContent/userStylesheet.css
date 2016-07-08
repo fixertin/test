@@ -1,0 +1,42 @@
+@CHARSET "ISO-8859-1";
+body{
+	background-color: #cfcfcf;
+}
+
+.navbar .container_12{
+	background-color: #aaaaaa;
+	height: 40px;
+	text-align: center;
+	line-height: 40px;
+	border-radius: 15px;
+}
+
+.about {
+	display: flex;
+}
+
+.about .grid_4{
+	background-color: #aaaaaa;
+	border-radius: 10px;
+}
+
+
+#name.container_12{
+	text-align: center;
+}
+
+.button {
+	background-color: #aaaaaa;
+	border-radius:15px;
+	width: 50%;
+	text-align: center;
+}
+
+.button:hover{
+	background-color: #5a5a5a;
+	color: #ffffff;
+}
+
+h3.container_12{
+	display: block;
+}

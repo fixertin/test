@@ -1,0 +1,49 @@
+@CHARSET "ISO-8859-1";
+body{
+	background-color: #cfcfcf;
+}
+
+.navbar .container_12{
+	background-color: #aaaaaa;
+	height: 40px;
+	text-align: center;
+	line-height: 40px;
+	border-radius: 15px;
+}
+
+.grid_2 .popupButton{
+	background-color: #aaaaaa;
+	border-radius: 10px;
+}
+
+#parent:hover .popup{
+	display: block;
+}
+
+.popup {
+	background: rgba(83, 82, 85, 0.8);
+	color: #ffffff;
+	border-radius: 10px;
+	position: fixed;
+	display: none;
+}
+
+.about {
+	display: flex;
+}
+
+.about .grid_4{
+	background-color: #aaaaaa;
+	border-radius: 10px;
+}
+
+
+#name.container_12{
+	text-align: center;
+}
+
+h3.container_12{
+	display: block;
+}
+
+
